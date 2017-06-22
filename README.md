@@ -6,7 +6,7 @@
 This template was created to support the deployment of a 4 interface Palo Alto Networks firewall into an existing Microsoft Azure environment that has the following items already created:
 
                   
-                    -Availability Set for the Firewall
+                    -Availability Set for the Firewall created in the same Resource Group that the firewall will be in
                     -VNET - with subnets
                     -Storage Account for the firewall VHD
                     -Resource Group for Firewall

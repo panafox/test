@@ -315,6 +315,11 @@
     "subnet1Ref": "[concat(variables('vnetID'),'/subnets/',parameters('subnet1Name'))]",
     "subnet2Ref": "[concat(variables('vnetID'),'/subnets/',parameters('subnet2Name'))]",
     "subnet3Ref": "[concat(variables('vnetID'),'/subnets/',parameters('subnet3Name'))]",
+    "subnet4Ref": "[concat(variables('vnetID'),'/subnets/',parameters('subnet4Name'))]",
+    "subnet5Ref": "[concat(variables('vnetID'),'/subnets/',parameters('subnet5Name'))]",
+    "subnet6Ref": "[concat(variables('vnetID'),'/subnets/',parameters('subnet6Name'))]",
+    "subnet7Ref": "[concat(variables('vnetID'),'/subnets/',parameters('subnet7Name'))]",
+    "subnet8Ref": "[concat(variables('vnetID'),'/subnets/',parameters('subnet8Name'))]", 
     "publicIPAddressType": "Dynamic",
     "subnets": [
       {

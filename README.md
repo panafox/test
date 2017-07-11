@@ -1,7 +1,7 @@
 # Azure-FW-8-Interfaces-
 
 
-[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2FAzure-FW-4-Interfaces-%2Fmaster%2FAzureDeploy.json)
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpanafox%2Ftest%2Fmaster%2FAzureDeploy.json)
 
 This template was created to support the deployment of a 8 interface Palo Alto Networks firewall into an existing Microsoft Azure environment that has the following items already created:
 
